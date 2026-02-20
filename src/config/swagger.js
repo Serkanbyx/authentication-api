@@ -7,7 +7,12 @@ const options = {
       title: "Authentication API",
       version: "1.0.0",
       description:
-        "JWT tabanlı kullanıcı kimlik doğrulama REST API. Register, Login ve Protected Route örnekleri içerir.",
+        "JWT-based user authentication REST API. Includes Register, Login, and Protected Route examples.",
+      contact: {
+        name: "Serkanby",
+        url: "https://serkanbayraktar.com",
+        email: "serkanbyx1@gmail.com",
+      },
     },
     servers: [
       {

@@ -33,7 +33,13 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 app.use("/auth", authRoutes);
 
 app.get("/", (_req, res) => {
-  res.json({ message: "Authentication API is running. Visit /api-docs for documentation." });
+  res.json({
+    message: "Authentication API is running.",
+    docs: "/api-docs",
+    author: "Serkanby",
+    website: "https://serkanbayraktar.com",
+    github: "https://github.com/Serkanbyx",
+  });
 });
 
 // Global error handler
