@@ -282,7 +282,7 @@ app.get("/", (_req, res) => {
     <div class="scan-line"></div>
     <div class="lock-icon"><div class="lock-keyhole"></div></div>
     <h1>Authentication API</h1>
-    <p class="version">v\${version}</p>
+    <p class="version">v${version}</p>
     <div class="shield-line"></div>
     <div class="links">
       <a href="/api-docs" class="btn-primary">API Documentation</a>
