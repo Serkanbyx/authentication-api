@@ -246,22 +246,18 @@ data/
 
 ## License
 
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Developer
 
-**Serkan Bayraktar**
+**Serkanby**
 
-- Website: [serkanbayraktar.com](https://serkanbayraktar.com)
+- Website: [serkanbayraktar.com](https://serkanbayraktar.com/)
 - GitHub: [@Serkanbyx](https://github.com/Serkanbyx)
 - Email: [serkanbyx1@gmail.com](mailto:serkanbyx1@gmail.com)
 
 ## Contact
 
-- For bugs and feature requests, please [open an issue](https://github.com/Serkanbyx/authentication-api/issues)
+- [Open an Issue](https://github.com/Serkanbyx/authentication-api/issues)
 - Email: [serkanbyx1@gmail.com](mailto:serkanbyx1@gmail.com)
-- Website: [serkanbayraktar.com](https://serkanbayraktar.com)
-
----
-
-⭐ If you like this project, don't forget to give it a star!
+- Website: [serkanbayraktar.com](https://serkanbayraktar.com/)
